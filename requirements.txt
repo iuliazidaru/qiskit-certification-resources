@@ -1,0 +1,8 @@
+qiskit
+matplotlib
+notebook
+numpy
+pylatexenc
+jupyter-server-mathjax
+seaborn
+pdflatex
