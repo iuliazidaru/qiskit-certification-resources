@@ -39,3 +39,6 @@ https://jamesquantum.com/qiskit-study-guide-part-2-circuit-basics/
 
 https://quantum-computing.ibm.com/composer/docs/iqx/terms-glossary
 https://quantum-computing.ibm.com/composer/docs/iqx/operations_glossary
+
+
+http://www.primaryobjects.com/2021/09/15/the-ultimate-guide-to-a-quantum-computing-certification-with-qiskit/
